@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri May 15 12:50:04 2020
 
-@author: krish.naik
-"""
 
 from flask import Flask, request
 import numpy as np
